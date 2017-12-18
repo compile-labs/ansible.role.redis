@@ -23,9 +23,6 @@
       versions:
       - 7
     categories:
-    - development
-    - development:web
-    - postgresql
-    - system
+    - database:nosql
 
   dependencies: []
